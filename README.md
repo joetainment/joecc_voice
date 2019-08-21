@@ -30,9 +30,11 @@ which allows users to control the systems and do simple things like typing by vo
 
 Hopefully someone finds this software useful.
 
-- Joe
+Sincerely,
 
+Joe Crawford
 
+<br>
 
 
 Setup and Requirements
@@ -91,4 +93,6 @@ python -m pip install -U --user PySide2 pyaudio SpeechRecognition pynput
 ```
 
 You can run the program itself, from its folder, with the command:
+```
 python JoeccVoice.py
+```
