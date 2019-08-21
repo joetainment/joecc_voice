@@ -53,6 +53,7 @@ Note: pyaudio requires the portaudio libraries and header files,
 usually in a dev package on most Linux distributions.
 
 
+<br>
 
 
 
@@ -78,6 +79,8 @@ using whatever package manager you distro has available.
 
 
 <br>
+
+
 
 Windows
 -------------------
