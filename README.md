@@ -1,6 +1,5 @@
 JoeccVoice
 ===========
-
 ### Easy Voice Recognition Software for Controlling a Computer by Voice.
 
 
