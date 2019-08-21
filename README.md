@@ -60,15 +60,20 @@ Linux
 
 On Debian and Ubuntu Systems, the following commands should
 work to install the required dependencies:
-
-sudo apt install portaudio19-dev python3-pip
+```
+sudo apt install portaudio19-dev python3-pip <br>
 pip3 install -U --user PySide2 pyaudio SpeechRecognition pynput
+```
+
 
 You can run the program itself, from its folder, with the command:
+```
 python3 JoeccVoice.py
+```
 
 If you are using other distributions, you can follow similar steps,
 using whatever package manager you distro has available.
+
 
 
 Windows
@@ -81,8 +86,9 @@ Python by default.
 Anyway...
 
 On windows you can usually install the dependencies with something like:
-
+```
 python -m pip install -U --user PySide2 pyaudio SpeechRecognition pynput
+```
 
 You can run the program itself, from its folder, with the command:
 python JoeccVoice.py
