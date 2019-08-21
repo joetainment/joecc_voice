@@ -77,6 +77,7 @@ If you are using other distributions, you can follow similar steps,
 using whatever package manager you distro has available.
 
 
+<br>
 
 Windows
 -------------------
