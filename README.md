@@ -1,7 +1,8 @@
 JoeccVoice
 ===========
 
-Easy Voice Recognition Software for Controlling a Computer by Voice.
+### Easy Voice Recognition Software for Controlling a Computer by Voice.
+
 
 Free and Open Source, as well as being Cross Platform (Windows/Linux/Mac)
 the aim of this software is to be able to perform arbitrary keyboard input,
