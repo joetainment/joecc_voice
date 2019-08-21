@@ -1,0 +1,2 @@
+# joecc_voice
+Voice recognition with an easy to use graphical user interface.  It is Free and Open Source, as well as being Cross Platform (Windows/Linux/Mac) and it is able to perform arbitrary keyboard input.  (Note that it currently makes use of Google's voice recognition or Windows SAPI to do the actual speech to text transcriptions. Hopefully a viable open source backend will exist in the future, perhaps Mozilla's voice project.)
