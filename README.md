@@ -2,7 +2,7 @@ JoeccVoice
 ===========
 ### Easy Voice Recognition Software for Controlling a Computer by Voice.
 
-<br><br><br>
+<br>
 
 Free and Open Source, as well as being Cross Platform (Windows/Linux/Mac)
 the aim of this software is to be able to perform arbitrary keyboard input,
@@ -10,7 +10,7 @@ as well as provide speech to text functionality.
 
 ( Note for programmers: The actual Python module name is:  joecc_voice )
 
-<br><br><br><br>
+<br><br>
 
 About This Software
 =========================
