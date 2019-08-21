@@ -63,7 +63,7 @@ Linux
 On Debian and Ubuntu Systems, the following commands should
 work to install the required dependencies:
 ```
-sudo apt install portaudio19-dev python3-pip <br>
+sudo apt install portaudio19-dev python3-pip
 pip3 install -U --user PySide2 pyaudio SpeechRecognition pynput
 ```
 
