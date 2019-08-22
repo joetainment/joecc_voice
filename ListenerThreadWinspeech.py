@@ -22,10 +22,12 @@ class ListenerThreadWinspeechWorker(object):
         winspeech.initialize_recognizer(winspeech.INPROC_RECOGNIZER)
         with threadDict as td:
             if speechCommandsTuple==None:
-              if 0:  ## quick test
-                listener = winspeech.listen_for_anything( self.onListen )
-              else:
+              try:
+                ## this is here as experimental support
+                ## for custom winspeech version
                 listener = winspeech.listen_joecc( None , self.onListen )
+              except:  
+                listener = winspeech.listen_for_anything( self.onListen )
             else:            
                 listener = winspeech.listen_for( 
                     speechCommandsTuple, self.onListen
