@@ -172,6 +172,7 @@ class Conf:
     
     'bema':'lima',
     'fema':'lima',
+    'lema':'lima',
     
     'might':'mike',
     'mic':'mike',
